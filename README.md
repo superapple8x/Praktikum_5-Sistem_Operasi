@@ -16,10 +16,10 @@
 ### 1.5 Mengedit file .profile
 ![Mengedit .profile](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/1-4.png)
 
-### 1.6 Mengedit file .bashrc
+### Menampilkan pesan dan menggunakan perintah source
 ![Mengedit .bashrc](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/1-5.1.png)
 
-### 1.7 Menampilkan pesan dan menggunakan perintah source
+### 1.7 Mengedit file .bashrc
 ![Menampilkan pesan dan menggunakan source](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/1-5.png)
 
 ### 1.8 Membandingkan metode login shell
