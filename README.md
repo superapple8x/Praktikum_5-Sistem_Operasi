@@ -16,7 +16,7 @@
 ### 1.5 Mengedit file .profile
 ![Mengedit .profile](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/1-4.png)
 
-### Menampilkan pesan dan menggunakan perintah source
+### 1.6 Menampilkan pesan dan menggunakan perintah source
 ![Mengedit .bashrc](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/1-5.1.png)
 
 ### 1.7 Mengedit file .bashrc
@@ -62,14 +62,14 @@
 ### 6.1 Mengatur jumlah range histori dan menampilkan histori perintah
 ![Mengatur histori](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/6-1.png)
 
-### 6.2 Contoh tambahan
+### 6.2
 ![Contoh 2](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/6-2.png)
 
-### 6.3 Contoh tambahan
+### 6.3
 ![Contoh 3](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/6-3.png)
 
-### 6.4 Contoh tambahan
+### 6.4
 ![Contoh 4](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/6-4.png)
 
-### 6.5 Contoh tambahan
+### 6.5
 ![Contoh 5](https://github.com/superapple8x/Praktikum_5-Sistem_Operasi/blob/main/praktikum5-gambar/6-5.png)
